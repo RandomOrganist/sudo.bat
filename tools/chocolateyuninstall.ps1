@@ -1,1 +1,1 @@
-Uninstall-BinFile 'sudo' '..\lib\tiny-sudo\bin\sudo.bat'
+Uninstall-BinFile 'sudo' '..\lib\tiny-sudo\tools\sudo.bat'
